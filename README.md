@@ -1,8 +1,12 @@
 # tool-ix
-/**
-* @author: Alejandro Abdala
-* @company: IBT
-* @proyect: CIGOM-DB
-*/
+/**************************************************
+# @author: Alejandro Abdala
+# @company: IBT
+# @proyect: CIGOM-DB
+**************************************************/
+
 Set de herraientas para importar información y llenado de bases de datos.
-del proyecto CIGOM DB
+del proyecto CIGOM DB.
+
+***************************************************
+Libs/ Todas las librerias necesarias para compilar los fuentes
